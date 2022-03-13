@@ -9,7 +9,7 @@
   ],
   "events": [
     {
-      "id": 1,
+      "id": "1",
       "name": "LANÇAMENTO DO LIVRO AMARGOSO",
       "description": "O Espaço Cultural do Sindicato dos Docentes das Universidades Federais do Estado do Ceará (ADUFC) recebe, no dia 16 de março, à partir das 19h30, o lançamento do livro “Amargoso”, de Cavalcante Júnior, psicólogo e professor do Instituto de Cultura e Arte (ICA) da Universidade Federal do Ceará (UFC).",
       "place": "Espaço Cultural da ADUFC",
@@ -22,7 +22,7 @@
       "price": 0
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "CURSO NOÇÕES BÁSICAS DE ACESSIBILIDADE E INCLUSÃO",
       "description": "Estão abertas, até o dia 18 de março, as inscrições para o segundo módulo do curso Noções Básicas de Acessibilidade e Inclusão, destinado a professores e agentes de acessibilidade da UFC. A atividade é uma realização da Secretaria de Acessibilidade (UFC-Inclui) e do Programa de Apoio e Acompanhamento Pedagógico (PAAP), que propõem uma discussão sobre acessibilidade e inclusão no Ensino Superior partindo do princípio de que estas questões são um direito fundamental, assegurado por leis e normas. O curso será realizado às terças e quintas-feiras, de 22 de março até 7 de abril. As aulas acontecem via Google Meet, das 10h às 12h, com atividades complementares assíncronas pelo Moodle.",
       "place": "Remoto",
