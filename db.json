@@ -18,7 +18,7 @@
       "hour": "19h30",
       "imageLink": "https://agenda.ufc.br/wp-content/uploads/2022/03/Amargoso-Cavalcante-Junior.jpg",
       "hostName": "UFC",
-      "isUniversity": "True",
+      "isUniversity": true,
       "price": 0
     },
     {
@@ -31,8 +31,86 @@
       "hour": "10h às 12h",
       "imageLink": "https://agenda.ufc.br/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-07-at-17.06.26.jpeg",
       "hostName": "UFC",
-      "isUniversity": "True",
+      "isUniversity": true,
       "price": 25
+    },
+    {
+      "id": "3",
+      "name": "RODA DE CONVERSA VIRTUAL DIA INTERNACIONAL DA MULHER: EM QUE AVANÇAMOS?",
+      "description": "A Pró-Reitoria de Gestão de Pessoas (PROGEP), por meio da Divisão de Apoio Psicossocial (DIAPS), promove, no dia 17 de março, a roda de conversa virtual “Dia Internacional da Mulher: em que avançamos?”, com a Profª Dolores Mota. O evento é gratuito e aberto ao público, com transmissão ao vivo pelo canal Conexão UFC no YouTube, à partir das 9h30min. A iniciativa, em alusão ao Dia Internacional da Mulher, comemorado em 8 de março, tem como objetivo refletir sobre os desafios e conquistas das mulheres na trajetória de luta, ampliação e defesa de seus direitos. A ação integra o Projeto Mais Saúde da Mulher, do Programa Saúde e Bem-Estar no Trabalho da UFC, em consonância com o eixo de vigilância e promoção à saúde da Política de Atenção à Saúde e Segurança no Trabalho do Servidor Público Federal (PASS).",
+      "place": "Remoto",
+      "beginDate": "17/03/2022",
+      "endDate": "17/03/2022",
+      "hour": "19h30",
+      "imageLink": "https://agenda.ufc.br/wp-content/uploads/2022/03/RODA-DE-CONVERSA.png",
+      "hostName": "UFC",
+      "isUniversity": true,
+      "price": 0
+    },
+    {
+      "id": "4",
+      "name": "II Encontro Médico Acadêmico de Pato Branco",
+      "description": "O II Encontro Médico Acadêmico de Pato Branco visa promover e compartilhar conhecimentos a cerca da área da saúde. Para isso, contamos com inúmeros palestrantes, ligas acadêmicas e parceiros, fazendo com que o evento traga uma experiência ainda mais completa aos acadêmicos. Com isso, tem-se, também, o espaço para a submissão de trabalhos, almejando a coparticipação discente no âmbito científico! Convidamos você para fazer parte dessa grande jornada e, desde já, construir o profissional que você quer ser no futuro!",
+      "place": "UNIDEP",
+      "beginDate": "24/03/2022",
+      "endDate": "26/03/2022",
+      "hour": "Vários horários",
+      "imageLink": "https://images.even3.com.br/-r-yf3o2LFgMvE4dQzVzLjCdULc=/1100x440/smart/even3.blob.core.windows.net/banner/BANNER-1100X440.5dd2010b876f42f2a0ef.png",
+      "hostName": "UNIDEP",
+      "isUniversity": true,
+      "price": 0
+    },
+    {
+      "id": "5",
+      "name": "SETA EVOLUTION",
+      "description": "O Sistema SETA reunirá seus Imperiais Elite, Black Pins e o Titan em um mega evento que abordará todas as novidades do novo plano de Marketing da Hinode. Serão 5 horas insanas de muito conhecimento e entrega com toda esta liderança. Já consegue imaginar o Daniel Uchoa trazendo toda a matemática deste plano, ou mesmo o Titan compartilhando as melhores estratégias a serem seguidas para que você alcance o topo do negócio? VAI SER SURREAL! Não fique de fora, garanta já o seu ingresso!",
+      "place": "Remoto",
+      "beginDate": "22/03/2022",
+      "endDate": "22/03/2022",
+      "hour": "15h às 21h",
+      "imageLink": "https://images.even3.com.br/27H785XIceMTOprG7jePmVhy9sQ=/1100x440/smart/even3.blob.core.windows.net/banner/SETA-EVOLUTION-BANNER-SITE.5cfb224c394546cbad7a.png",
+      "hostName": "SETA",
+      "isUniversity": false,
+      "price": 60
+    },
+    {
+      "id": "6",
+      "name": "Abrasel Talks",
+      "description": "Abrasel convida seus associados a participarem do encontro com tema: Acordo Sindical da Abrasel PE, como aderir?, além de debatermos sobre segurança jurídica do acordo, esclarecer itens do Programa de Saúde do Trabalhador e regulamentação das Gorjetas. ",
+      "place": "Livraria Jaqueira - Recife",
+      "beginDate": "16/03/2022",
+      "endDate": "16/03/2022",
+      "hour": "10h às 12h",
+      "imageLink": "https://images.even3.com.br/9z7txYYiZjJ29qYQqz5wMa4JAgk=/1100x440/smart/even3.blob.core.windows.net/banner/CpiadePropostaAbraselTalks-Parceiro1100px440px.b0f67c99297146f5879d.png",
+      "hostName": "Abrasel Pernambuco",
+      "isUniversity": false,
+      "price": 100
+    },
+    {
+      "id": "7",
+      "name": "Aprimoramento Profissional",
+      "description": "O aprimoramento profissional é uma modalidade de formação que visa a atualização ou aquisição dos conhecimentos, capacidades e atitudes, dentro da profissão. Uma das grandes finalidades é instigar e capacitar para que o profissional fique preparado para lidar com as atividades do dia a dia — ou seja, se sentir útil, ser capaz de solucionar os problemas, de enfrentar adversidades, de contribuir com a equipe etc, gerando mais reconhecimento e valorização. Neste I Aprimoramento Profissional, serão abordados as práticas e intersetorialidade da recepção, financeiro, convênios e lab. saúde do Laboratório Dra. Telma Menezes.",
+      "place": "Laboratório Dra. Telma Menezes",
+      "beginDate": "17/03/2022",
+      "endDate": "18/03/2022",
+      "hour": "13h às 17h",
+      "imageLink": "https://images.even3.com.br/O4BagVriFjxn6a70PDycWmIzxq8=/1100x440/smart/even3.blob.core.windows.net/banner/Designsemnome11.58f4afb5688040978048.png",
+      "hostName": "Laboratório Dra. Telma Menezes",
+      "isUniversity": false,
+      "price": 0
+    },
+    {
+      "id": "8",
+      "name": "II Fórum Nacional de Sistemas Integrados de Informação",
+      "description": "Em 2021 o I Fórum reuniu as principais lideranças das empresas públicas de saneamento como: Casan (Santa Catarina), Cesan (Espírito Santo), Copasa (Minas Gerais), Embasa (Bahia), Saneago (Goiás), Sabesp (São Paulo), e Sanepar (Paraná), que apresentaram suas soluções tecnológicas e de negócios para seus respectivos ERPs. Na oportunidade além dos palestrantes o evento contou com cerca de 600 participantes das empresas do setor de todo o Brasil: Cacege, Caema, Caesbe, Cagepa, Cedae, Compesa, Corsan, Cosanpa e Saneatins. Nesta segunda edição do Fórum será ampliado o convite para as empresas privadas de saneamento que possuam sistemas integrados de gestão de mercado, sendo que todos os inscritos poderão submeter apresentações para os formatos orais e pôsteres. Também haverá mesas redondas com especialistas para discutir os desafios das empresas de saneamento com seus ERPs e painéis onde os principais players de mercado poderão apresentar as principais inovações aplicáveis ao setor. Lembramos que o evento será totalmente online e gratuito, contamos com sua presença, venha participar submeta seu trabalho para o II Fórum Nacional de Sistemas Integrados de Informação.",
+      "place": "Remoto",
+      "beginDate": "17/05/2022",
+      "endDate": "19/05/2022",
+      "hour": "10h às 17h",
+      "imageLink": "https://even3.blob.core.windows.net/pagina-evento/Logo_Forum-small.9e102538fa784ad9b22c.png",
+      "hostName": "Ezequiel Ferreira dos Santos",
+      "isUniversity": false,
+      "price": 0
     }
   ],
   "eventsBought": [
